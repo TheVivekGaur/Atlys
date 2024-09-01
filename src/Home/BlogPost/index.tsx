@@ -1,4 +1,3 @@
-import React from 'react';
 import CommentedPost from './CommentedPost';
 import './Styles/BlogPost.css';
 
